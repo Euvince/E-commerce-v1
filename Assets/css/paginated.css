@@ -1,0 +1,10 @@
+.btn-right
+{
+    position: absolute;
+    right: 125px;
+}
+
+.btn-left, .btn-right
+{
+    width: 155px;
+}

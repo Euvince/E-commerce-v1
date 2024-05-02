@@ -1,0 +1,19 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Models\\" : "Models/",
+            "Controllers\\" : "Controllers/",
+            "Helpers\\" : "Helpers/",
+            "Validators\\" : "Validators/",
+            "HTML\\" : "HTML"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.15",
+        "symfony/var-dumper": "^6.2",
+        "vlucas/valitron": "^1.4",
+        "fzaninotto/faker": "^1.5",
+        "dompdf/dompdf": "^2.0",
+        "spipu/html2pdf": "^5.2"
+    }
+}
